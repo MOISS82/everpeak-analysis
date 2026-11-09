@@ -1,6 +1,6 @@
 Análisis de Clientes – ConectaTel.
 
-Proyecto de análisis exploratorio de datos (EDA) desarrollado como parte del Bootcamp de Data Analyst de TripleTen.
+Proyecto de análisis exploratorio de datos (EDA).
 
 El objetivo es analizar el comportamiento de los clientes de ConectaTel mediante el estudio de sus características, hábitos de consumo y patrones de uso de llamadas y mensajes.
 
